@@ -1,0 +1,22 @@
+{
+    "name": "paulinhoajr/nfse",
+    "description": "Modulo gerador de NFSE Nova Prata - RS",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Paulinhoajr\\Nfse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Rodrigues",
+            "email": "paulinhoajrodrigues@gmail.com"
+        },
+        {
+            "name": "Paulo Junior",
+            "email": "pejotinhas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
