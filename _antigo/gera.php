@@ -1,3 +1,5 @@
+<?php
+
 public function geraNota($id)
 {
 ini_set('max_execution_time', 0);
