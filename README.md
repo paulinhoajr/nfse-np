@@ -1,6 +1,12 @@
  # Nota Fiscal De Serviço Eletrônica (NFSE)
 Módulo gerador de NFSE.
 
+## Instalação:
+Executar o comando abaixo
+```shell
+composer require paulinhoajr/nfse
+```
+
 ## Documentação:
 Teste legal ↓
 
