@@ -1,0 +1,22 @@
+{
+    "name": "paulinhoajr/nfse-np",
+    "description": "Modulo gerador de NFSE",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Paulinhoajr\\NfseNp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo Rodrigues",
+            "email": "paulinhoajrodrigues@gmail.com"
+        },
+        {
+            "name": "Paulo Junior",
+            "email": "pejotinhas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
