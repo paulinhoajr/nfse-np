@@ -1,6 +1,6 @@
 {
     "name": "paulinhoajr/nfse-np",
-    "description": "Modulo gerador de NFSE Nova Prata - RS",
+    "description": "Modulo gerador de NFSE",
     "type": "library",
     "license": "MIT",
     "autoload": {
